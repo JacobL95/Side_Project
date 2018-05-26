@@ -1,4 +1,17 @@
-﻿<html>
+<?php 
+		include "Add_User_Util.php";
+		
+        $name = $_POST['Username'];
+        $password1 = $_POST['Password1'];
+        $password2 = $_POST['Password2'];
+        
+        if($password1 == $password2){
+        $result =  add_user($name, $password1);
+
+ }
+else{
+echo'
+<html>
 <head>
 <title>Marriage Database</title>
 <style type="text/css">
@@ -30,10 +43,10 @@
 }
 .MD_Main_CSS Login_Fail 
 {
-    color: #D8D8D8;
+    color: red;
     font-size: 1.4em;
     margin-bottom: 1px;
-    padding: 7px 39px 7px 100px;
+    padding: 7px 39px 7px 125px;
 }
 .MD_Main_CSS input[type=text], .MD_Main_CSS input[type=password], .MD_Main_CSS textarea
 {
@@ -86,17 +99,23 @@
 </head>
 <body>
 <div class="MD_Main_CSS">
-<form action="Login.php" method="post">
+<form action="Admin_Handler.php" method="post">
 <fieldset>
-<text_mod><span class="center">Welcome</span></text_mod>
-<text_mod><span class="number">Username</span></text_mod>
+<text_mod><span class="center">Add User</span></text_mod>
+<text_mod><span class="number">Enter New Username</span></text_mod>
 <input name="Username" type="text" />
-<text_mod><span class="number">Password</span></text_mod>
-<input name="Password" type="password" />
+<text_mod><span class="number">Enter Password</span></text_mod>
+<input name="Password1" type="text" />
+<text_mod><span class="number">Re-enter Password</span></text_mod>
+<input name="Password2" type="text" />
 </fieldset>
 <input type="submit" value="Submit" />
-<Login_Fail>Invalid Username or Password!</Login_Fail>
+<Login_Fail>Password' . 's don' . 't match!</Login_Fail>
 </form>
 </div>
 </body>
 </html>
+';
+}
+?>       
+       

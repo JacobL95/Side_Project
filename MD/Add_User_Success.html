@@ -20,7 +20,7 @@
 .MD_Main_CSS .center
 {
     display: block;
-    padding: 7px 39px 7px 180px;
+    padding: 7px 39px 7px 31px;
     position: relative;
 }
 .MD_Main_CSS text_mod 
@@ -86,16 +86,12 @@
 </head>
 <body>
 <div class="MD_Main_CSS">
-<form action="Login.php" method="post">
-<fieldset>
-<text_mod><span class="center">Welcome</span></text_mod>
-<text_mod><span class="number">Username</span></text_mod>
-<input name="Username" type="text" />
-<text_mod><span class="number">Password</span></text_mod>
-<input name="Password" type="password" />
-</fieldset>
-<input type="submit" value="Submit" />
-<Login_Fail>Invalid Username or Password!</Login_Fail>
+<form action="Login.php">
+<text_mod><span class="center">You Succesfully Added User ' . $UN . '!</span></text_mod>
+<input id="admin-submit" type="submit" name="Return to Menu" value="Return to Menu" />
+</form>
+<form action="LoginPage.html">
+<input type="submit" value="Logout" />
 </form>
 </div>
 </body>

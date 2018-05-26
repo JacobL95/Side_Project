@@ -18,7 +18,7 @@ function user_login($UN, $PASS)
     if($result->num_rows == 1){
         $row = $result->fetch_assoc();
         $conn->close();
-        return $row;
+        return $row['User_Name'];
     }
     $conn->close();
     return "LoginFailed";         
