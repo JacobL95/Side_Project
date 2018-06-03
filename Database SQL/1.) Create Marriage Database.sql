@@ -1,1 +1,0 @@
-Create Database Marriage_Database;
