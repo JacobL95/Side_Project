@@ -61,6 +61,14 @@ MD_Main_CSS .center_user
 	margin-bottom: 1px;
 	padding: 7px 39px 7px 100px;
 }
+.MD_Main_CSS Move_Submit
+{
+   	position: relative;
+   	top: 0px;
+    left: 55px;
+
+}
+
 .MD_Main_CSS AUPW_Fail
 {
     color: red;
@@ -114,7 +122,7 @@ MD_Main_CSS .center_user
 {
     background: #1a75ff;
     border: 1px solid #1a75ff;
-    border-radius: 8px;
+    border-radius: 5px;
     border-width: 1px 1px 1px;
     color: #FFF;
     display: block;
@@ -122,10 +130,10 @@ MD_Main_CSS .center_user
     font-style: normal;
     margin: 0 auto;
     margin-bottom: 5px;
-    padding: 18px 39px 18px 39px;
     position: relative;
     text-align: center;
-    width: 477px;
+    height: 29px;
+    width: 180px;
 }
 .MD_Main_CSS input[type=submit]:hover, .MD_Main_CSS input[type=button]:hover
 {

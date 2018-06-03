@@ -17,7 +17,9 @@
 		<input type="hidden" name="Username" value="' .$u. '"/>		
 		<input type="hidden" name="Password" value="' .$p. '"/>
 		
-		<input type="submit" value="Remove User" />
+		<input type="submit" name="Login" value="Remove User" />
+		
+		
 		<input type="submit" value="Add Record" />
 		<input type="submit" value="Remove Record" />
 		<input type="submit" value="View Records" />
@@ -45,7 +47,7 @@
 				<text_mod><span class="number">Password</span></text_mod>
 				<input name="Password" type="password" />
 			</fieldset>
-		<input type="submit" value="Submit" />
+		<input type="submit" name="Login" value="Submit" />
 		<Login_Fail>Invalid Username or Password!</Login_Fail>
 		</form>
 		</div>
@@ -87,7 +89,7 @@
 	<html>
 	<head>
 	<title>Marriage Database</title>
-	<link rel="stylesheet" href="Master_Style_Sheet.css">
+	<link rel="stylesheet" href="Master_Style_Sheet.css" type="text/css"/>
 	</head>
 	<body>
 	<div class="MD_Main_CSS">
@@ -104,7 +106,7 @@
      		<input type="hidden" name="Password" value="' .$p. '"/>
 		</fieldset>
 	<input type="submit" name="Login" value="Add New User" />
-	<Login_Fail> Passwords Do Not Match </Login_Fail>
+	<AUPW_Fail> Passwords Do Not Match </AUPW_Fail>
 	</form>
 	</div>
 	</body>
