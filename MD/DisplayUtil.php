@@ -164,5 +164,54 @@
 	</html>
 	';
 	}
+	
+	function Show_Remove_User_Check($u, $p, $User_To_Be_Removed){
+	echo'	
+		<html>
+		<head>
+		<title>Marriage Database</title>
+		<link rel="stylesheet" href="Master_Style_Sheet.css">
+		</head>
+		<body>
+		<div class="MD_Main_CSS">
+		<form action="User_Removed.php" method="post">
+		<fieldset>
+		<text_mod><span class="center_AU">Are you sure you want to remove ' . $User_To_Be_Removed .'?</span></text_mod>
+			<input type="hidden" name="Username" value="' .$u. '"/>		
+	     	<input type="hidden" name="Password" value="' .$p. '"/>
+	     	<input type="hidden" name="Removed_User" value="'. $User_To_Be_Removed .'" />
+		</fieldset>
+		<input type="submit" name="submit" value="Agree" />
+		</form>
+		</div>
+		</body>
+		</html>';
+	}
+	function RemoveUserSuccess($u, $p, $NewUser){
+	echo '
+	<html>
+	<head>
+	<title>Marriage Database</title>
+	<link rel="stylesheet" href="Master_Style_Sheet.css">
+	</head>
+	<body>
+	<div class="MD_Main_CSS">
+		<form action="Master_Control.php" method="post">
+			<text_mod><span class="center_UA">You Succesfully Removed User ' . $NewUser . '!</span></text_mod>
+			<input type="submit" name="Login" value="Return to Menu" />
+			<input type="hidden" name="Username" value="' .$u. '"/>		
+			<input type="hidden" name="Password" value="' .$p. '"/>
+		</form>
+		<form action="LoginPage.html">
+			<input type="submit" value="Logout" />
+		</form>
+	</div>
+	</body>
+	</html>
+	';
+	
+    }	
+
+
 ?>
  
