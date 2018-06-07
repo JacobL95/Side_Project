@@ -1,0 +1,162 @@
+﻿<html>
+<head>
+<title>Marriage Database</title>
+<link rel="stylesheet" href="Master_Style_Sheet.css">
+<script>
+function myFunction() {
+   document.getElementById("HOMIE").placeholder = "Enter Parish";
+   document.getElementById("HOMIE").disabled = "";
+
+   }
+</script>
+</head>
+<body>
+<div class="MD_Main_CSS">
+<form action="Admin_Handler.php" method="post">
+<fieldset>
+<text_mod><span class="center">Add Record</span></text_mod>
+
+<text_mod><span class="number">Enter Groom's First Name</span></text_mod>
+<input name="Username" type="text" />
+
+<text_mod><span class="number">Enter Groom's Middle Intial</span></text_mod>
+<input name="Password1" type="text" />
+
+<text_mod><span class="number">Enter Groom's Last Name</span></text_mod>
+<input name="Password2" type="text" />
+
+<text_mod><span class="number">Enter Brides's First Name</span></text_mod>
+<input name="Username" type="text" />
+
+<text_mod><span class="number">Enter Bride's Middle Intial</span></text_mod>
+<input name="Password1" type="text" />
+
+<text_mod><span class="number">Enter Bride's Last Name</span></text_mod>
+<input name="Password2" type="text" />
+
+<text_mod><span class="number">Enter Wedding Data MM/DD/YYYY</span></text_mod>
+<input name="Username" type="text" />
+
+<text_mod><span class="number">Dispensation Category</span></text_mod><br><br>
+<input type="checkbox" name="vehicle" value="Bike"> None
+<input type="checkbox" name="vehicle" value="Car" > Disparity of Cult
+<input type="checkbox" name="vehicle" value="Car" > Mixed Religion
+<br><br>
+
+<text_mod><span class="number">Non-KCSJ Arch/Diocese</span></text_mod><br>
+<input type="radio" onclick="myFunction()" >Yes
+<br><br>
+<input type="text" id="HOMIE" name="User_Entered_Parish" placeholder="N/A" disabled="disabled" />
+<br><br>
+ 
+
+<text_mod><span class="number">Parish of Wedding</span></text_mod><br>
+<select>
+<option value=""></option>
+<option value="	Blessed Sacrament , Bethany	">	Blessed Sacrament , Bethany	</option>
+<option value="	Cathedral of the Immaculate Conception , Kansas City	">	Cathedral of the Immaculate Conception , Kansas City	</option>
+<option value="	Christ the King , Kansas City	">	Christ the King , Kansas City	</option>
+<option value="	Church of the Annunciation , Kearney	">	Church of the Annunciation , Kearney	</option>
+<option value="	Church of the Good Shepherd , Smithville	">	Church of the Good Shepherd , Smithville	</option>
+<option value="	Church of the Holy Martyrs , Kansas City	">	Church of the Holy Martyrs , Kansas City	</option>
+<option value="	Church of the Santa Fe , Buckner	">	Church of the Santa Fe , Buckner	</option>
+<option value="	Co-Cathedral of St. Joseph , St. Joseph	">	Co-Cathedral of St. Joseph , St. Joseph	</option>
+<option value="	Coronation of Our Lady , Grandview	">	Coronation of Our Lady , Grandview	</option>
+<option value="	Guardian Angels , Kansas City	">	Guardian Angels , Kansas City	</option>
+<option value="	Holy Cross , Kansas City	">	Holy Cross , Kansas City	</option>
+<option value="	Holy Family , Kansas City	">	Holy Family , Kansas City	</option>
+<option value="	Holy Rosary , Clinton	">	Holy Rosary , Clinton	</option>
+<option value="	Holy Rosary , Kansas City	">	Holy Rosary , Kansas City	</option>
+<option value="	Holy Spirit , Lee's Summit	">	Holy Spirit , Lee's Summit	</option>
+<option value="	Holy Trinity , Urich	">	Holy Trinity , Urich	</option>
+<option value="	Holy Trinity , Weston	">	Holy Trinity , Weston	</option>
+<option value="	Immaculate Conception , Lexington	">	Immaculate Conception , Lexington	</option>
+<option value="	Immaculate Conception , Montrose	">	Immaculate Conception , Montrose	</option>
+<option value="	Immaculate Conception , Richmond	">	Immaculate Conception , Richmond	</option>
+<option value="	Immaculate Heart of Mary , Princeton	">	Immaculate Heart of Mary , Princeton	</option>
+<option value="	Mary Immaculate , Gallatin 	">	Mary Immaculate , Gallatin 	</option>
+<option value="	Nativity of Blessed Virgin Mary , Independence	">	Nativity of Blessed Virgin Mary , Independence	</option>
+<option value="	Oratory of Old St. Patrick , Kansas City	">	Oratory of Old St. Patrick , Kansas City	</option>
+<option value="	Our Lady of Good Counsel , Kansas City	">	Our Lady of Good Counsel , Kansas City	</option>
+<option value="	Our Lady of Guadalupe , St. Joseph	">	Our Lady of Guadalupe , St. Joseph	</option>
+<option value="	Our Lady of Lourdes , Harrisonville	">	Our Lady of Lourdes , Harrisonville	</option>
+<option value="	Our Lady of Lourdes , Kansas City	">	Our Lady of Lourdes , Kansas City	</option>
+<option value="	Our Lady of Peace , Kansas City	">	Our Lady of Peace , Kansas City	</option>
+<option value="	Our Lady of Perpetual Help , Kansas City	">	Our Lady of Perpetual Help , Kansas City	</option>
+<option value="	Our Lady of Sorrows , Kansas City	">	Our Lady of Sorrows , Kansas City	</option>
+<option value="	Our Lady of the Presentation , Lee's Summit	">	Our Lady of the Presentation , Lee's Summit	</option>
+<option value="	Sacred Heart , Hamilton	">	Sacred Heart , Hamilton	</option>
+<option value="	Sacred Heart , Norborne 	">	Sacred Heart , Norborne 	</option>
+<option value="	Sacred Heart , Warrensburg	">	Sacred Heart , Warrensburg	</option>
+<option value="	Sacred Heart-Guadalupe , Kansas City	">	Sacred Heart-Guadalupe , Kansas City	</option>
+<option value="	Seven Dolors , Hurlingen	">	Seven Dolors , Hurlingen	</option>
+<option value="	St. Aloysius , Maysville	">	St. Aloysius , Maysville	</option>
+<option value="	St. Andrew the Apostle , Kansas City	">	St. Andrew the Apostle , Kansas City	</option>
+<option value="	St. Ann , Excelsior Springs	">	St. Ann , Excelsior Springs	</option>
+<option value="	St. Ann , Independence	">	St. Ann , Independence	</option>
+<option value="	St. Ann , Plattsburg 	">	St. Ann , Plattsburg 	</option>
+<option value="	St. Anthony , Kansas City	">	St. Anthony , Kansas City	</option>
+<option value="	St. Bartholomew , Windsor	">	St. Bartholomew , Windsor	</option>
+<option value="	St. Benedict , Burlington Junction	">	St. Benedict , Burlington Junction	</option>
+<option value="	St. Bernadette , Kansas City	">	St. Bernadette , Kansas City	</option>
+<option value="	St. Bridget , Pleasant Hill	">	St. Bridget , Pleasant Hill	</option>
+<option value="	St. Bridget , Rich Hill	">	St. Bridget , Rich Hill	</option>
+<option value="	St. Catherine , Osceola	">	St. Catherine , Osceola	</option>
+<option value="	St. Catherine of Siena , Kansas City	">	St. Catherine of Siena , Kansas City	</option>
+<option value="	St. Charles Borromeo , Kansas City	">	St. Charles Borromeo , Kansas City	</option>
+<option value="	St. Columba , Conception Junction 	">	St. Columba , Conception Junction 	</option>
+<option value="	St. Columban , Chillicothe	">	St. Columban , Chillicothe	</option>
+<option value="	St. Cyril , Sugar Creek	">	St. Cyril , Sugar Creek	</option>
+<option value="	St. Elizabeth , Kansas City	">	St. Elizabeth , Kansas City	</option>
+<option value="	St. Francis Xavier , Kansas City	">	St. Francis Xavier , Kansas City	</option>
+<option value="	St. Francis Xavier , St. Joseph	">	St. Francis Xavier , St. Joseph	</option>
+<option value="	St. Gabriel Archangel , Kansas City	">	St. Gabriel Archangel , Kansas City	</option>
+<option value="	St. George , Odessa	">	St. George , Odessa	</option>
+<option value="	St. Gregory Barbarigo , Maryville	">	St. Gregory Barbarigo , Maryville	</option>
+<option value="	St. James , Kansas City	">	St. James , Kansas City	</option>
+<option value="	St. James , Liberty	">	St. James , Liberty	</option>
+<option value="	St. James , St. Joseph	">	St. James , St. Joseph	</option>
+<option value="	St. John Francis Regis , Kansas City	">	St. John Francis Regis , Kansas City	</option>
+<option value="	St. John LaLande , Blue Springs	">	St. John LaLande , Blue Springs	</option>
+<option value="	St. Joseph  the Worker , Independence	">	St. Joseph  the Worker , Independence	</option>
+<option value="	St. Joseph , Easton	">	St. Joseph , Easton	</option>
+<option value="	St. Joseph , Parnell	">	St. Joseph , Parnell	</option>
+<option value="	St. Joseph , Trenton	">	St. Joseph , Trenton	</option>
+<option value="	St. Jude the Apostle , Oak Grove	">	St. Jude the Apostle , Oak Grove	</option>
+<option value="	St. Louis , Kansas City	">	St. Louis , Kansas City	</option>
+<option value="	St. Margaret  of Scotland , Lee's Summit	">	St. Margaret  of Scotland , Lee's Summit	</option>
+<option value="	St. Mark , Independence	">	St. Mark , Independence	</option>
+<option value="	St. Mary , Carrollton 	">	St. Mary , Carrollton 	</option>
+<option value="	St. Mary , Higginsville	">	St. Mary , Higginsville	</option>
+<option value="	St. Mary , Independence	">	St. Mary , Independence	</option>
+<option value="	St. Mary , Nevada	">	St. Mary , Nevada	</option>
+<option value="	St. Mary , St. Joseph	">	St. Mary , St. Joseph	</option>
+<option value="	St. Matthew Apostle , Kansas City	">	St. Matthew Apostle , Kansas City	</option>
+<option value="	St. Monica , Kansas City	">	St. Monica , Kansas City	</option>
+<option value="	St. Munchin , Cameron	">	St. Munchin , Cameron	</option>
+<option value="	St. Patrick , Butler	">	St. Patrick , Butler	</option>
+<option value="	St. Patrick , Ford City	">	St. Patrick , Ford City	</option>
+<option value="	St. Patrick , Forest City	">	St. Patrick , Forest City	</option>
+<option value="	St. Patrick , Holden 	">	St. Patrick , Holden 	</option>
+<option value="	St. Patrick , Kansas City	">	St. Patrick , Kansas City	</option>
+<option value="	St. Patrick , St. Joseph	">	St. Patrick , St. Joseph	</option>
+<option value="	St. Paul the Apostle , Tarkio	">	St. Paul the Apostle , Tarkio	</option>
+<option value="	St. Peter , Kansas City	">	St. Peter , Kansas City	</option>
+<option value="	St. Peter , Stanberry	">	St. Peter , Stanberry	</option>
+<option value="	St. Robert Bellarmine , Blue Springs 	">	St. Robert Bellarmine , Blue Springs 	</option>
+<option value="	St. Rose of Lima , Savannah	">	St. Rose of Lima , Savannah	</option>
+<option value="	St. Sabina , Belton	">	St. Sabina , Belton	</option>
+<option value="	St. Therese , Kansas City	">	St. Therese , Kansas City	</option>
+<option value="	St. Therese Little Flower , Kansas City	">	St. Therese Little Flower , Kansas City	</option>
+<option value="	St. Thomas More , Kansas City	">	St. Thomas More , Kansas City	</option>
+<option value="	Twelve Apostles Parish , Platte City	">	Twelve Apostles Parish , Platte City	</option>
+<option value="	Visitation , Kansas City	">	Visitation , Kansas City	</option>
+</select>
+
+
+</fieldset>
+<input type="submit" value="Submit" />
+</form>
+</div>
+</body>
+</html>
