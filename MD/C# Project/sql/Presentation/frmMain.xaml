@@ -1,0 +1,30 @@
+<Window x:Class="MarriageApp.Presentation.frmMain"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Main" Height="300" Width="300" WindowState="Maximized" WindowStyle="ThreeDBorderWindow" Icon="/MarriageApp;component/Images/application.ico">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top" IsMainMenu="True">
+            <MenuItem Header="File" Height="32" FontSize="16">
+                <MenuItem x:Name="Exit" Header="Exit" Height="32" FontSize="16" Click="Exit_Click" />
+                </MenuItem>
+                <MenuItem Header="Master" Height="32" FontSize="16">
+                    <MenuItem x:Name="Bride" Header="Bride" Height="32" FontSize="16" Click="Bride_Click" />
+                    <MenuItem x:Name="Catholic_Party" Header="Catholic_Party" Height="32" FontSize="16" Click="Catholic_Party_Click" />
+                    <MenuItem x:Name="Dispensation" Header="Dispensation" Height="32" FontSize="16" Click="Dispensation_Click" />
+                    <MenuItem x:Name="Dispensation_Type" Header="Dispensation_Type" Height="32" FontSize="16" Click="Dispensation_Type_Click" />
+                    <MenuItem x:Name="Groom" Header="Groom" Height="32" FontSize="16" Click="Groom_Click" />
+                    <MenuItem x:Name="Log" Header="Log" Height="32" FontSize="16" Click="Log_Click" />
+                    <MenuItem x:Name="Login" Header="Login" Height="32" FontSize="16" Click="Login_Click" />
+                    <MenuItem x:Name="MarriageRec" Header="MarriageRec" Height="32" FontSize="16" Click="MarriageRec_Click" />
+                    <MenuItem x:Name="Parish" Header="Parish" Height="32" FontSize="16" Click="Parish_Click" />
+                    <MenuItem x:Name="Record" Header="Record" Height="32" FontSize="16" Click="Record_Click" />
+                    <MenuItem x:Name="RecordToDispensation" Header="RecordToDispensation" Height="32" FontSize="16" Click="RecordToDispensation_Click" />
+                </MenuItem>
+                <MenuItem Header="Detail" Height="32" FontSize="16">
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+    </Grid>
+</Window>
+ 
