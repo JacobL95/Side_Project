@@ -1,0 +1,347 @@
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.baml
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.g.cs
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp_MarkupCompile.cache
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.g.resources
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.Properties.Resources.resources
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.GenerateResource.Cache
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.exe
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.pdb
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.Rendering.dll
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\PdfSharp.dll
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.exe
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.pdb
+C:\dev\internproject\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csprojResolveAssemblyReference.cache
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.exe
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.pdb
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.DocumentObjectModel.dll
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.Rendering.dll
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\PdfSharp.dll
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csprojResolveAssemblyReference.cache
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.baml
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.g.cs
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp_MarkupCompile.cache
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.g.resources
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.Properties.Resources.resources
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.GenerateResource.Cache
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.CoreCompileInputs.cache
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.exe
+E:\Project Proto V1\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.pdb
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.exe
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.pdb
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.Rendering.dll
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\PdfSharp.dll
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csprojResolveAssemblyReference.cache
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.baml
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.g.cs
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp_MarkupCompile.cache
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.g.resources
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.Properties.Resources.resources
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.GenerateResource.Cache
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.CoreCompileInputs.cache
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.exe
+D:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.pdb
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.exe
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.pdb
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.DocumentObjectModel.dll
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.Rendering.dll
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\PdfSharp.dll
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csprojResolveAssemblyReference.cache
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.baml
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.g.cs
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp_MarkupCompile.cache
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.g.resources
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.Properties.Resources.resources
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.GenerateResource.Cache
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.CoreCompileInputs.cache
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.exe
+E:\Marriage DB Project\Project Proto V3\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.pdb
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.exe
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.pdb
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.exe
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.pdb
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.DocumentObjectModel.dll
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.Rendering.dll
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\PdfSharp.dll
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csprojResolveAssemblyReference.cache
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.baml
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.g.cs
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp_MarkupCompile.cache
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.g.resources
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.Properties.Resources.resources
+F:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.GenerateResource.Cache
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.exe
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.pdb
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.DocumentObjectModel.dll
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.Rendering.dll
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\PdfSharp.dll
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csprojResolveAssemblyReference.cache
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.baml
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.g.cs
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp_MarkupCompile.cache
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.g.resources
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.Properties.Resources.resources
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.GenerateResource.Cache
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.CoreCompileInputs.cache
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.exe
+E:\Marriage DB Project\Project Proto V4\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.pdb
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.exe
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.pdb
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.exe
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.pdb
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.DocumentObjectModel.dll
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.Rendering.dll
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\PdfSharp.dll
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csprojResolveAssemblyReference.cache
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.baml
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.g.cs
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp_MarkupCompile.cache
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.g.resources
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.Properties.Resources.resources
+F:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.GenerateResource.Cache
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.exe
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.pdb
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.DocumentObjectModel.dll
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.Rendering.dll
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\PdfSharp.dll
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csprojResolveAssemblyReference.cache
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.baml
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.g.cs
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp_MarkupCompile.cache
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.g.resources
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.Properties.Resources.resources
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.GenerateResource.Cache
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.CoreCompileInputs.cache
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.exe
+E:\Marriage DB Project\Project Proto V5\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.pdb
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.exe
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.pdb
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.exe
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MarriageApp.pdb
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.DocumentObjectModel.dll
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\MigraDoc.Rendering.dll
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\bin\Debug\PdfSharp.dll
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csprojResolveAssemblyReference.cache
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.baml
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMain.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmBride.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmCatholic_Party.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmDispensation_Type.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmGroom.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLog.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmLogin.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmMarriageRec.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmParish.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecord.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\frmRecordToDispensation.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\Presentation\App.g.cs
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp_MarkupCompile.cache
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.g.resources
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.Properties.Resources.resources
+F:\Marriage DB Project\Project Proto V6\Marriage\WPF - # 1 - SQL Q C#\MarriageApp\obj\Debug\MarriageApp.csproj.GenerateResource.Cache
